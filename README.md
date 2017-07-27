@@ -1,6 +1,14 @@
-# PicoEvent for Angular 4+
+# About PicoEvent
 
 PicoEvent is a type safe event bus for Angular 4+ apps.
+
+# Installation
+
+PicoEvent is stilled with NPM:
+
+```
+npm install picoevent
+```
 
 # When to use PicoEvent
 

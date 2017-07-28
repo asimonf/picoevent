@@ -2,13 +2,13 @@
 
 PicoEvent is a type safe event bus for Angular 4+ apps.
 
-# Installation
-
-PicoEvent is stilled with NPM:
+PicoEvent is installed with NPM:
 
 ```
 npm install picoevent
 ```
+
+Report bugs at https://github.com/zolo/picoevent
 
 # When to use PicoEvent
 

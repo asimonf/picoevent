@@ -8,7 +8,7 @@ PicoEvent is installed with NPM:
 npm install picoevent
 ```
 
-Report bugs at https://github.com/zolo/picoevent
+Report bugs and submit pull requests at https://github.com/zolo/picoevent
 
 # When to use PicoEvent
 

@@ -1,6 +1,6 @@
 {
   "name": "picoevent",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "url": "https://github.com/zolo/picoevent/issues",
   "email": "github@zolo.io",
   "description": "PicoEvent",
@@ -10,9 +10,9 @@
   "typings": "./picoevent.d.ts",
   "author": "",
   "license": "MIT",
-  "repository":  
-  { "type" : "git"
-  , "url" : "https://github.com/zolo/picoevent.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zolo/picoevent.git"
   },
   "engines": {
     "node": ">= 6.9.0",
